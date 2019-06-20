@@ -1,2 +1,2 @@
-# ImageShuffle
-Image shuffle game concept using Typescript
+# TileTap
+Tap tiles to reveal matches
